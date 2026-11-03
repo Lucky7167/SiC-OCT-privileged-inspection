@@ -1,4 +1,4 @@
-# Learning when to acquire depth-resolved evidence for resource-efficient silicon carbide wafer inspection
+# Learning when to scan: OCT-privileged selective acquisition for resource-efficient silicon carbide wafer inspection
 
 Wide-field bright-field microscopy localizes candidate defects on a 6-inch SiC
 wafer, but cannot resolve whether a defect lies on the surface or buried below
